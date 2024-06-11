@@ -7,7 +7,8 @@
         <!-- <link rel="stylesheet" href="/app/src/main/webapp/css/bootstrap.min.css"> -->
         <link rel="stylesheet" href="/css/bootstrap.min.css">
     </head>
-    <body>
+    <body>        
+        <%@ include file = "../_templates/navbar.jsp"%>
         <div class="contanier">
 
             <h1>Deletar Livro</h1>
